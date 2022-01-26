@@ -1,0 +1,12 @@
+# Tyson's coding adventure
+
+Code example and exercises to start from the ground up.
+
+## Organization
+
+Each set of skills will be contained in a directory.
+
+For example, basic math, variables, user input will be contained in a dir similarly named like `01-math_vars_input`
+
+All exercises will in Python for the time being.
+We will expand to additional languages as needed in the future.
